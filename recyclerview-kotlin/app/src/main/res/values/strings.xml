@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MyWallet</string>
+
+
+    <!-- String Login -->
+    <string name="til_username">Nome do usuário</string>
+    <string name="til_password">Senha</string>
+    <string name="btn_login">Login</string>
+    <string name="tv_info">Não tem conta? Cadastre-se</string>
+    <string name="btn_cadastro">Cadastrar</string>
+    <string name="til_password2">Informa a Senha Novamente</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="entradas">Entradas</string>
+    <string name="gastos">Gastos</string>
+    <string name="fragment_entrada">Fragment entrada</string>
+    <string name="til_descricao">Descrição</string>
+    <string name="edCategoria">Categoria</string>
+    <string name="edDataHora">Data e Hora</string>
+    <string name="edValor">Valor</string>
+    <string name="btnCadastrar">Cadastrar</string>
+</resources>
